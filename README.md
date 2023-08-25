@@ -29,4 +29,4 @@ This journey isn't just about data; it's about crafting success stories. Empower
 
 For a visual representation of this project, check out the [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3](https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9)https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9) 📊.
 
-![pict](Picture/Ken_Jee's_Youtube_Channel_Report_page.jpg)
+![pict](Picture/Sprocket_Central_Au._page-0001.jpg)
