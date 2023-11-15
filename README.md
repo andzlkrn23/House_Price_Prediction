@@ -2,6 +2,8 @@
 
 ![pict](Picture/sprocket_central_logo.png)
 
+![pict](Picture/Sprocket_Central_Au._page-0001.jpg)
+
 Unlock the power of data as we delve into key insights that shape success. This exploration reveals not just numbers, but actionable strategies to harness untapped potential.
 
 **Peering into the Insights:**
@@ -29,6 +31,4 @@ These insights are more than dots on a chart; they're actionable strategy compon
 *In a Nutshell:*
 This journey isn't just about data; it's about crafting success stories. Empowered by insights, your decisions will be guided by the stories these numbers tell. Welcome to the realm where data ignites transformation.
 
-For a visual representation of this project, check out the [here](https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9) [https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9](https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9) 📊.
-
-![pict](Picture/Sprocket_Central_Au._page-0001.jpg)
+For a visual representation of this project, check out the Google Looker Studio link : [https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9](https://lookerstudio.google.com/reporting/624a3bdb-947e-4933-adb1-fec14d0bf6a9) 📊.
